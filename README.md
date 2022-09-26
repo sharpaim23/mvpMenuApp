@@ -1,7 +1,7 @@
 # mvpMenuApp
 Introduction
 
-a *rough* MVP of a Menu App that is built using the MVC Architecture, we have also implemented "authorization" so users can sign up, customize & personalize the app
+a *rough* MVP of a Menu App that is built using the MVC Architecture, I have also implemented "authorization" so users can sign up, customize & personalize the app
 
 Be sure to fork it for your own copy
 
